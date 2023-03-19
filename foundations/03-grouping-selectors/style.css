@@ -1,0 +1,16 @@
+button {
+    font-size: 28px;
+    border-color: gray;
+    font-family: Helvetica, 'Times New Roman',sans-serif;
+}
+
+.pirmas {
+    background-color:black;
+    color: white;
+
+}
+
+.antras {
+    background-color: yellow;
+
+}
